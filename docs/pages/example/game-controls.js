@@ -1,6 +1,6 @@
 /*---
-title: Navigate the map with game-like controls
-description: Move around the map with game-like controls.
+title: 使用game-like controls对地图进行导航
+description: 使用game-like controls来对地图进行移动
 tags:
   - camera
 pathname: /mapbox-gl-js/example/game-controls/
