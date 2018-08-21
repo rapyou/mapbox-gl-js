@@ -1,7 +1,7 @@
 /*---
-title: Animate a point along a route
+title: 顺着一条路径移动一个点
 description: >-
-  Use [Turf](http://turfjs.org/) to smoothly animate a point along the distance of a line.
+  使用 [Turf](http://turfjs.org/) 来在一段距离上缓慢地移动一个点.
 tags:
   - animate
   - camera
