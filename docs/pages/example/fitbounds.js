@@ -1,8 +1,7 @@
 /*---
-title: Fit a map to a bounding box
+title: 把一个地图适配到盒容器
 description: >-
-  Use fitBounds to show a specific area of the map in view, regardless of the
-  pixel size of the map.
+  使用fitbounds来在可视区域里展示一个特殊的区域，无视地图的像素尺寸
 tags:
   - camera
 pathname: /mapbox-gl-js/example/fitbounds/
