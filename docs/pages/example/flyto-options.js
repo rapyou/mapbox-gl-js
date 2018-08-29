@@ -1,6 +1,6 @@
 /*---
-title: Slowly fly to a location
-description: Using .flyTo with flyOptions
+title: 缓慢飞向某位置
+description: 运用flyOptions来操作.flyTo
 tags:
   - camera
 pathname: /mapbox-gl-js/example/flyto-options/
