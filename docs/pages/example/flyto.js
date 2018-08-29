@@ -1,6 +1,6 @@
 /*---
-title: Fly to a location
-description: Using .flyTo to smoothly interpolate between locations
+title: 飞到一个位置
+description: 使用.flyTo 在位置之间平缓滑动
 tags:
   - camera
 pathname: /mapbox-gl-js/example/flyto/
